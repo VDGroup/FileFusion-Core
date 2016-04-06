@@ -1,0 +1,8 @@
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\bin\Release\FileFusion-Core.exe.config
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\bin\Release\FileFusion-Core.exe
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\bin\Release\FileFusion-Core.pdb
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Release\FileFusion-Core.csprojResolveAssemblyReference.cache
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Release\FileFusion_Core.Properties.Resources.resources
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Release\FileFusion-Core.csproj.GenerateResource.Cache
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Release\FileFusion-Core.exe
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Release\FileFusion-Core.pdb

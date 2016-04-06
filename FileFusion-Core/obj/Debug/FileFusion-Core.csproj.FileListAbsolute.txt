@@ -1,0 +1,21 @@
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\bin\Debug\FileFusion-Core.exe.config
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\bin\Debug\FileFusion-Core.exe
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\bin\Debug\FileFusion-Core.pdb
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.csprojResolveAssemblyReference.cache
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion_Core.Properties.Resources.resources
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.csproj.GenerateResource.Cache
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.exe
+c:\users\vojmar\documents\visual studio 2015\Projects\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.pdb
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\bin\Debug\FileFusion-Core.exe.config
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.exe
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.pdb
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.csprojResolveAssemblyReference.cache
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion_Core.Properties.Resources.resources
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.csproj.GenerateResource.Cache
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\bin\Debug\FileFusion-Core.exe
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\FileFusion-Core\bin\Debug\FileFusion-Core.pdb
+C:\Users\Firenex\Documents\FileFusion-Core\SVN Data\FileFusion-Core\FileFusion-Core\bin\Debug\FileFusion-Core.exe.config
+C:\Users\Firenex\Documents\FileFusion-Core\SVN Data\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.exe
+C:\Users\Firenex\Documents\FileFusion-Core\SVN Data\FileFusion-Core\FileFusion-Core\obj\Debug\FileFusion-Core.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\FileFusion-Core\bin\Debug\AdressManager.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\FileFusion-Core\bin\Debug\AdressManager.pdb

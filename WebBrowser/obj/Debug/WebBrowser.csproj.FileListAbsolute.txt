@@ -1,0 +1,9 @@
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\WebBrowser\obj\Debug\WebBrowser.pdb

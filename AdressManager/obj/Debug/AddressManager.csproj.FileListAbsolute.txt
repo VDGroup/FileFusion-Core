@@ -1,0 +1,10 @@
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\AdressManager\obj\Debug\AddressManager.csprojResolveAssemblyReference.cache
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\AdressManager\bin\Debug\AdressManager.dll
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\AdressManager\bin\Debug\AdressManager.pdb
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\AdressManager\obj\Debug\AdressManager.dll
+C:\Users\vojmar\Desktop\SVN\FileFusion\FileFusion-Core\AdressManager\obj\Debug\AdressManager.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\AdressManager\bin\Debug\AdressManager.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\AdressManager\bin\Debug\AdressManager.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\AdressManager\obj\Debug\AddressManager.csprojResolveAssemblyReference.cache
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\AdressManager\obj\Debug\AdressManager.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\AdressManager\obj\Debug\AdressManager.pdb

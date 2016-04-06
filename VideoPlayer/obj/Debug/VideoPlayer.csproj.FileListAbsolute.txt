@@ -1,0 +1,16 @@
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\VideoPlayer.csproj.ResolveComReference.cache
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\VideoPlayer.Form1.resources
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.Cache
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\bin\Debug\QLib.dll
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\bin\Debug\QLib.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\VideoPlayer\obj\Debug\VideoPlayer.csprojResolveAssemblyReference.cache
