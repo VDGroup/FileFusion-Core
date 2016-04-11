@@ -32,9 +32,10 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.VPlayer = new AxWMPLib.AxWindowsMediaPlayer();
-            this.Position = new XComponent.SliderBar.MACTrackBar();
             this.Volume = new XComponent.SliderBar.MACTrackBar();
+            this.Position = new XComponent.SliderBar.MACTrackBar();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.State = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -57,6 +58,7 @@
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.BackColor = System.Drawing.Color.Transparent;
+            this.splitContainer1.Panel2.Controls.Add(this.State);
             this.splitContainer1.Panel2.Controls.Add(this.Volume);
             this.splitContainer1.Panel2.Controls.Add(this.Position);
             this.splitContainer1.Size = new System.Drawing.Size(978, 590);
@@ -72,31 +74,7 @@
             this.VPlayer.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("VPlayer.OcxState")));
             this.VPlayer.Size = new System.Drawing.Size(978, 524);
             this.VPlayer.TabIndex = 0;
-            // 
-            // Position
-            // 
-            this.Position.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.Position.BackColor = System.Drawing.Color.Transparent;
-            this.Position.BorderColor = System.Drawing.SystemColors.ActiveBorder;
-            this.Position.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Position.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(125)))), ((int)(((byte)(123)))));
-            this.Position.IndentHeight = 6;
-            this.Position.Location = new System.Drawing.Point(12, 22);
-            this.Position.Maximum = 10;
-            this.Position.Minimum = 0;
-            this.Position.Name = "Position";
-            this.Position.Size = new System.Drawing.Size(675, 28);
-            this.Position.TabIndex = 0;
-            this.Position.TextTickStyle = System.Windows.Forms.TickStyle.None;
-            this.Position.TickColor = System.Drawing.Color.FromArgb(((int)(((byte)(148)))), ((int)(((byte)(146)))), ((int)(((byte)(148)))));
-            this.Position.TickHeight = 4;
-            this.Position.TickStyle = System.Windows.Forms.TickStyle.None;
-            this.Position.TrackerColor = System.Drawing.Color.Green;
-            this.Position.TrackerSize = new System.Drawing.Size(16, 16);
-            this.Position.TrackLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(93)))), ((int)(((byte)(90)))));
-            this.Position.TrackLineHeight = 3;
-            this.Position.Value = 0;
+            this.VPlayer.PlayStateChange += new AxWMPLib._WMPOCXEvents_PlayStateChangeEventHandler(this.VPlayer_PlayStateChange);
             // 
             // Volume
             // 
@@ -122,11 +100,48 @@
             this.Volume.TrackLineHeight = 3;
             this.Volume.Value = 0;
             // 
+            // Position
+            // 
+            this.Position.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.Position.BackColor = System.Drawing.Color.Transparent;
+            this.Position.BorderColor = System.Drawing.SystemColors.ActiveBorder;
+            this.Position.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Position.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(123)))), ((int)(((byte)(125)))), ((int)(((byte)(123)))));
+            this.Position.IndentHeight = 6;
+            this.Position.Location = new System.Drawing.Point(57, 22);
+            this.Position.Maximum = 10;
+            this.Position.Minimum = 0;
+            this.Position.Name = "Position";
+            this.Position.Size = new System.Drawing.Size(630, 28);
+            this.Position.TabIndex = 0;
+            this.Position.TextTickStyle = System.Windows.Forms.TickStyle.None;
+            this.Position.TickColor = System.Drawing.Color.FromArgb(((int)(((byte)(148)))), ((int)(((byte)(146)))), ((int)(((byte)(148)))));
+            this.Position.TickHeight = 4;
+            this.Position.TickStyle = System.Windows.Forms.TickStyle.None;
+            this.Position.TrackerColor = System.Drawing.Color.Green;
+            this.Position.TrackerSize = new System.Drawing.Size(16, 16);
+            this.Position.TrackLineColor = System.Drawing.Color.FromArgb(((int)(((byte)(90)))), ((int)(((byte)(93)))), ((int)(((byte)(90)))));
+            this.Position.TrackLineHeight = 3;
+            this.Position.Value = 0;
+            this.Position.Scroll += new System.EventHandler(this.Position_Scroll);
+            this.Position.MouseUp += new System.Windows.Forms.MouseEventHandler(this.Position_MouseUp);
+            // 
             // timer1
             // 
             this.timer1.Enabled = true;
-            this.timer1.Interval = 3000;
+            this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // State
+            // 
+            this.State.Location = new System.Drawing.Point(3, 22);
+            this.State.Name = "State";
+            this.State.Size = new System.Drawing.Size(48, 28);
+            this.State.TabIndex = 2;
+            this.State.Text = "Play";
+            this.State.UseVisualStyleBackColor = true;
+            this.State.Click += new System.EventHandler(this.State_Click);
             // 
             // Form1
             // 
@@ -152,6 +167,7 @@
         private XComponent.SliderBar.MACTrackBar Volume;
         private XComponent.SliderBar.MACTrackBar Position;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button State;
     }
 }
 

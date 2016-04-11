@@ -1,0 +1,8 @@
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\bin\Debug\Update.exe.config
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\bin\Debug\Update.exe
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\bin\Debug\Update.pdb
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\obj\Debug\Update.Properties.Resources.resources
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\obj\Debug\Update.exe
+C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\Update\obj\Debug\Update.pdb
