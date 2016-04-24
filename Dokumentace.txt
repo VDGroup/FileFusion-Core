@@ -3,5 +3,6 @@ bude potøeba:
 install - pøesune soubor do pluginù a pøidá referenci
 copy - pøesune soubor do pluginù ale nepøidá referenci
 run - pøesune soubor do pluginù a spustí
+treshold - opre
 
 Ok delam ted na Updatoru

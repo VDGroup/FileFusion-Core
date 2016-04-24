@@ -25,3 +25,12 @@ C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\PluginInst
 C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.csproj.GenerateResource.Cache
 C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.exe
 C:\Users\vojmar\Documents\Visual Studio 2015\Projects\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.pdb
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\bin\Debug\PluginInstaller.exe.config
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\bin\Debug\PluginInstaller.exe
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\bin\Debug\PluginInstaller.pdb
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.csprojResolveAssemblyReference.cache
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.PluginInfo.resources
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.Properties.Resources.resources
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.csproj.GenerateResource.Cache
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.exe
+C:\Users\vojmar\Source\Repos\FileFusion-Core\PluginInstaller\obj\Debug\PluginInstaller.pdb
